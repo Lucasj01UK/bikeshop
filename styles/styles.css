@@ -46,3 +46,12 @@ p {
     object-fit: cover;
     position: relative;
 }
+
+/* cards */
+
+#cards {
+    /* position: absolute; */
+    margin-top: 200px;;
+}
+
+
