@@ -1,0 +1,48 @@
+body {
+    overflow-x: hidden;       
+}
+
+h1 {
+    font-family: 'Cardo', serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif; 
+}
+
+.titleText {
+    color: white;
+    font-size: 10rem;
+    letter-spacing: 1.125rem;
+    object-fit: cover;
+}
+
+@media (max-width: 450px) {
+    .titleText {
+        font-size: 7rem;
+        text-align: center;
+        letter-spacing: normal;
+    }
+}
+
+.heroImage {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: absolute;
+    filter: brightness(0.7);
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.logoImage {
+    width: 100px;    
+}
+
+.title-container {
+    height: 80vh;
+    width: 100vw;
+    object-fit: cover;
+    position: relative;
+}
