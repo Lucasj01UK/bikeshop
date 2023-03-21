@@ -1,3 +1,3 @@
 # bikeshop
 
-Recreation on my local bikeshop.
+Re-creation of my local bikeshop.
