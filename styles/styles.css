@@ -109,6 +109,11 @@ p {
     background-color: beige;
 }
 
+.brandLogo {
+    height: 200px;
+    width: 400px;
+}
+
 .fa-linkedin:hover {
   color: #0077B5;
 }
