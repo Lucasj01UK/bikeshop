@@ -109,6 +109,14 @@ p {
     background-color: beige;
 }
 
-footer {
-    
+.fa-linkedin:hover {
+  color: #0077B5;
+}
+
+.fa-facebook-official:hover {
+  color: #385898;
+}
+
+.fa-instagram:hover {
+  color: #c13584
 }
